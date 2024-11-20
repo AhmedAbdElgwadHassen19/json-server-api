@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "/src/image/4dacd4c0-540d-403d-b953-187a08a624de.jpeg",
+      "price": "1,800,000$",
+      "name": {
+        "en": "Our Realestates",
+        "ar": "فيلا"
+      },
+      "location": {
+        "en": "Dubai",
+        "ar": "دبي"
+      }
+    },
+    {
+      "id": "2",
+      "image": "/src/image/4dacd4c0-540d-403d-b953-187a08a624de.jpeg",
+      "price": "1,800,000$",
+      "name": {
+        "en": "Our Realestates",
+        "ar": "فيلا"
+      },
+      "location": {
+        "en": "Dubai",
+        "ar": "دبي"
+      }
+    }
+  ]
+}
